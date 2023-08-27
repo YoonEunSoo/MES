@@ -1,0 +1,916 @@
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.exe
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormCustomers.resources
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormOrders.resources
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormReporting.resources
+C:\Users\dddms\OneDrive\바탕 화면\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormSetting.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe.config
+E:\스마트 공장 4팀\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe
+E:\스마트 공장 4팀\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.pdb
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormCustomers.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormOrders.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormReporting.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormSetting.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.exe
+E:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.pdb
+D:\스마트 공장 4팀\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe.config
+D:\스마트 공장 4팀\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe
+D:\스마트 공장 4팀\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.pdb
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormCustomers.resources
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormOrders.resources
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormReporting.resources
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormSetting.resources
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.exe
+D:\스마트 공장 4팀\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormCustomers.resources
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormOrders.resources
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormReporting.resources
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormSetting.resources
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormOrder2.resources
+C:\Users\user\Desktop\과제ui\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\과제ui\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\과제ui\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.Forms.FormOrders.resources
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.Forms.FormReporting.resources
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.Forms.FormSetting.resources
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\과제ui\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\과제ui\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\과제ui\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\과제ui\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\과제ui\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\과제ui\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\과제ui\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\과제ui\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\과제ui\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\중간\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\중간\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\중간\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.Forms.FormReporting.resources
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.Forms.FormSetting.resources
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.Forms.FromNow.resources
+C:\Users\user\Desktop\중간\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\중간\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.Forms.FromNow.resources
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.Forms.FormReporting.resources
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.Forms.FormSetting.resources
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\07-31 YES\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\07-31 YES\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\07-31 YES\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\07-31 YES\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\07-31 YES\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-01\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-01\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-01\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-01\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-01\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.exe
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.exe
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\시스템모델링\Desktop\08-01 2.39 YES - 복사본\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-01 4시(조회)\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-01 7시\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\안형철\Desktop\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\안형철\Desktop\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.exe
+C:\Users\안형철\Desktop\08-01 2.39 YES\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\안형철\Desktop\08-01 2.39 YES\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\안형철\Desktop\08-01 2.39 YES\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\안형철\Desktop\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\안형철\Desktop\08-01 2.39 YES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\안형철\Desktop\08-01 2.39 YES\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.exe
+C:\Users\안형철\Desktop\08-01 2.39 YES\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-02\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-02\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-02(2) - 복사본\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02(2) - 복사본\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-02 AHC\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 AHC\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-02 19시 현재 최종\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 19시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 23시 현재 최종- 윤은수\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종-\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 23시 현재 최종-\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 23시 현재 최종\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 30분\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-02 23시 30분\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-03 1200\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-03 1200\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 1200\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-03 1200\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 1200\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-03 1200 제작중\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 1200 제작중\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 1235\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-03 1235\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 1235\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 1235\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\user\Desktop\08-03 1235\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 1235 실험중\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03_1235\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-03_1235\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03_1235\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\user\Desktop\08-03_1235\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\user\Desktop\08-03_1235\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\user\Desktop\08-03_2148AHC\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03_2148AHC\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 23시\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-03 23시\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 23시\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\user\Desktop\08-03 23시\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\MultiColoredModernUI.exe
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\안형철\Desktop\08-03 23시\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.exe
+C:\Users\안형철\Desktop\08-03 23시\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\일석이조 최종발표\08-03 23시 AHC\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\user\Desktop\08-04_11시_AHC\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-04_11시_AHC\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\user\Desktop\08-04_12시 최종\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.exe.licenses
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.exe
+C:\Users\user\Desktop\08-04_12시 최종\obj\Debug\MultiColoredModernUI.pdb
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\MultiColoredModernUI.exe.config
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\MultiColoredModernUI.exe
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\MultiColoredModernUI.pdb
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Shared.v11.1.dll
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.v11.1.dll
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Shared.v11.1.xml
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.v11.1.xml
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+E:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.exe.licenses
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.exe
+E:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.pdb
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\MultiColoredModernUI.exe.config
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\MultiColoredModernUI.exe
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\MultiColoredModernUI.pdb
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\스마트 공장 4팀\08-04_12시 최종\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.SuggestedBindingRedirects.cache
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormDashboard.resources
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormWokrMaster.resources
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormNotifications.resources
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormNow.resources
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Forms.FormProduct.resources
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.exe.licenses
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.csproj.CopyComplete
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.exe
+D:\스마트 공장 4팀\08-04_12시 최종\obj\Debug\MultiColoredModernUI.pdb
